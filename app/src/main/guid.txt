@@ -1,0 +1,14 @@
+1--drawable
+2--custom_title
+3--device_name
+4--mymessage
+5--hismessage
+6--main
+7--option_menu
+8--strings
+9--AndroidManifest
+10--cMessage
+11--Message_array_adapter
+12--MessageSqlite
+13--BluetoothChatService
+14--BluetoothChat
